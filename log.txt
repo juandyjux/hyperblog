@@ -1,0 +1,35 @@
+commit 9621a78022c4fa9155eb666c1bcb5c290f49d4e5
+Author: Juandy <juandi_z@hotmail.com>
+Date:   Thu Mar 11 22:37:27 2021 -0500
+
+    reemplazo de una version de su historia
+
+commit bf3536d398aef1e5ae129ea6960225ff7996eb62
+Author: Juandy <juandi_z@hotmail.com>
+Date:   Thu Mar 11 22:33:48 2021 -0500
+
+    cambio de maestria
+
+commit b710a34fa0c431eaeba1a128e5858b510baaccc1
+Author: Juandy <juandi_z@hotmail.com>
+Date:   Thu Mar 11 22:33:07 2021 -0500
+
+    cambio de vida
+
+commit 0168f160f94cc019027aa7836c048f8e445788ba
+Author: Juandy <juandi_z@hotmail.com>
+Date:   Thu Mar 11 22:32:13 2021 -0500
+
+    Arranco mi proyecto real con html y css
+
+commit 74712a34115a1005cd8cd829e5ebc3633336d481
+Author: Juandy <juandi_z@hotmail.com>
+Date:   Tue Mar 9 16:51:47 2021 -0500
+
+    Este es el primer commit de este archivo
+
+commit 91d55ad734721665f77e743972b60dd0a431fd45
+Author: Juandy <juandi_z@hotmail.com>
+Date:   Tue Mar 9 16:49:58 2021 -0500
+
+    Este es el primer commit de este archivo
